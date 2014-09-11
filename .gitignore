@@ -38,7 +38,10 @@ Icon
 
 /TheLuckyCountry/TheLuckyCountry/TheLuckyCountry/bin/*
 
-TheLuckyCountry/TheLuckyCountry/TheLuckyCountry/bin/x86/Debug/Content/ausMap.xnb
+/TheLuckyCountry/TheLuckyCountry/TheLuckyCountry/bin/x86/Debug/Content/ausMap.xnb
 *.xnb
-TheLuckyCountry/TheLuckyCountry/TheLuckyCountry/bin/x86/Debug/FarseerPhysics XNA.dll
-TheLuckyCountry/TheLuckyCountry/TheLuckyCountryContent/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/TheLuckyCountry/TheLuckyCountry/TheLuckyCountry/bin/*
+/TheLuckyCountry/TheLuckyCountry/TheLuckyCountryContent/obj/*
+/TheLuckyCountry/TheLuckyCountry/TheLuckyCountry/obj/*
+/TheLuckyCountry/TheLuckyCountry/TheLuckyCountry/TheLuckyCountry.csproj.Debug.cachefile
+/TheLuckyCountry/TheLuckyCountry/TheLuckyCountryContent/TheLuckyCountryContent.contentproj
