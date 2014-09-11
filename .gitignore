@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -34,3 +35,10 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+/TheLuckyCountry/TheLuckyCountry/TheLuckyCountry/bin/*
+
+TheLuckyCountry/TheLuckyCountry/TheLuckyCountry/bin/x86/Debug/Content/ausMap.xnb
+*.xnb
+TheLuckyCountry/TheLuckyCountry/TheLuckyCountry/bin/x86/Debug/FarseerPhysics XNA.dll
+TheLuckyCountry/TheLuckyCountry/TheLuckyCountryContent/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
